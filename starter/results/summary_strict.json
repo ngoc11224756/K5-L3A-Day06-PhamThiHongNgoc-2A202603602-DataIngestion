@@ -1,0 +1,62 @@
+{
+  "A": {
+    "dev": {
+      "n": 15,
+      "hit_at_1": 12,
+      "hit_at_1_rate": 0.8,
+      "hit_at_3": 13,
+      "hit_at_3_rate": 0.8666666666666667,
+      "filter_n": 0,
+      "filter_ok": 0
+    },
+    "test": {
+      "n": 5,
+      "hit_at_1": 5,
+      "hit_at_1_rate": 1.0,
+      "hit_at_3": 5,
+      "hit_at_3_rate": 1.0,
+      "filter_n": 0,
+      "filter_ok": 0
+    }
+  },
+  "B": {
+    "dev": {
+      "n": 15,
+      "hit_at_1": 13,
+      "hit_at_1_rate": 0.8666666666666667,
+      "hit_at_3": 13,
+      "hit_at_3_rate": 0.8666666666666667,
+      "filter_n": 0,
+      "filter_ok": 0
+    },
+    "test": {
+      "n": 5,
+      "hit_at_1": 4,
+      "hit_at_1_rate": 0.8,
+      "hit_at_3": 5,
+      "hit_at_3_rate": 1.0,
+      "filter_n": 0,
+      "filter_ok": 0
+    }
+  },
+  "C": {
+    "dev": {
+      "n": 15,
+      "hit_at_1": 13,
+      "hit_at_1_rate": 0.8666666666666667,
+      "hit_at_3": 13,
+      "hit_at_3_rate": 0.8666666666666667,
+      "filter_n": 3,
+      "filter_ok": 3
+    },
+    "test": {
+      "n": 5,
+      "hit_at_1": 4,
+      "hit_at_1_rate": 0.8,
+      "hit_at_3": 5,
+      "hit_at_3_rate": 1.0,
+      "filter_n": 1,
+      "filter_ok": 1
+    }
+  }
+}

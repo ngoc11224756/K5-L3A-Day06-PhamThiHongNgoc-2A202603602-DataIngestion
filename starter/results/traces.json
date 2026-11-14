@@ -323,10 +323,10 @@
     "filter": null,
     "filter_used": false,
     "filter_ok": null,
-    "hit_rank": null,
-    "hit_at_1": false,
-    "hit_at_3": false,
-    "matched_chunk_id": null,
+    "hit_rank": 1,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matched_chunk_id": "sotay-sausanh-2022_p94_f1",
     "hits": [
       {
         "rank": 1,
@@ -342,7 +342,7 @@
         "distance": 0.09526518696184472,
         "score": 0.9047348130381553,
         "content": "i có sức khỏe tốt và hồi phục nhanh\nthì sau ít nhất 6 tuần là có thể quan hệ tình dục trở lại.\n- Nên chủ động sử dụng các biện pháp tránh thai an\ntoàn.\nĐối với đẻ mổ\n- Phụ nữ sinh mổ nên kiêng quan hệ trong ít nhất 3\ntháng sau sinh.\n- Việc quan hệ sớm sau sinh sẽ gây ra sự đau đớn,\nkhông hài lòng, ảnh hưởng lớn đến cảm xúc cũng như trở\nthành nỗi ám ảnh tâm lý cho cả hai vợ chồng.",
-        "is_match": false
+        "is_match": true
       },
       {
         "rank": 2,
@@ -1591,10 +1591,10 @@
     "filter": null,
     "filter_used": false,
     "filter_ok": null,
-    "hit_rank": null,
-    "hit_at_1": false,
-    "hit_at_3": false,
-    "matched_chunk_id": null,
+    "hit_rank": 1,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matched_chunk_id": "sotay-sausanh-2022_p94_b0",
     "hits": [
       {
         "rank": 1,
@@ -1610,7 +1610,7 @@
         "distance": 0.0927299691325465,
         "score": 0.9072700308674535,
         "content": "Sau đẻ khi nào thì có thể sinh hoạt tình dục? - Sự hồi phục sức khỏe của mỗi bà mẹ sau sinh còn phụ thuộc vào thể trạng và sự chăm sóc sau sinh vì thế thời gian cụ thể đối với mỗi cặp đôi còn tùy thuộc vào cách sinh con, tình trạng sức khỏe của người phụ nữ và cả tâm lý vợ chồng sau khi sinh - Chỉ quan hệ trở lại khi cả hai cảm thấy sẵn sàng và thoải mái. - Nên chủ động sử dụng các biện pháp tránh thai an toàn Đối với sinh thường - Với những người có sức khỏe tốt và hồi phục nhanh thì sau ít nhất 6 tuần là có thể quan hệ tình dục trở lại. - Nên chủ động sử dụng các biện pháp tránh thai an toàn. Đối với đẻ mổ - Phụ nữ sinh mổ nên kiêng quan hệ trong ít nhất 3 tháng sau sinh. - Việc quan hệ sớm sau sinh sẽ gây ra sự đau đớn, không hài lòng, ảnh hưởng lớn đến cảm xúc cũng như trở thành nỗi ám  ảnh tâm lý cho cả hai vợ chồng.",
-        "is_match": false
+        "is_match": true
       },
       {
         "rank": 2,
@@ -2859,10 +2859,10 @@
     "filter": null,
     "filter_used": false,
     "filter_ok": null,
-    "hit_rank": null,
-    "hit_at_1": false,
-    "hit_at_3": false,
-    "matched_chunk_id": null,
+    "hit_rank": 1,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "matched_chunk_id": "sotay-sausanh-2022_p94_b0",
     "hits": [
       {
         "rank": 1,
@@ -2878,7 +2878,7 @@
         "distance": 0.0927299691325465,
         "score": 0.9072700308674535,
         "content": "Sau đẻ khi nào thì có thể sinh hoạt tình dục? - Sự hồi phục sức khỏe của mỗi bà mẹ sau sinh còn phụ thuộc vào thể trạng và sự chăm sóc sau sinh vì thế thời gian cụ thể đối với mỗi cặp đôi còn tùy thuộc vào cách sinh con, tình trạng sức khỏe của người phụ nữ và cả tâm lý vợ chồng sau khi sinh - Chỉ quan hệ trở lại khi cả hai cảm thấy sẵn sàng và thoải mái. - Nên chủ động sử dụng các biện pháp tránh thai an toàn Đối với sinh thường - Với những người có sức khỏe tốt và hồi phục nhanh thì sau ít nhất 6 tuần là có thể quan hệ tình dục trở lại. - Nên chủ động sử dụng các biện pháp tránh thai an toàn. Đối với đẻ mổ - Phụ nữ sinh mổ nên kiêng quan hệ trong ít nhất 3 tháng sau sinh. - Việc quan hệ sớm sau sinh sẽ gây ra sự đau đớn, không hài lòng, ảnh hưởng lớn đến cảm xúc cũng như trở thành nỗi ám  ảnh tâm lý cho cả hai vợ chồng.",
-        "is_match": false
+        "is_match": true
       },
       {
         "rank": 2,
