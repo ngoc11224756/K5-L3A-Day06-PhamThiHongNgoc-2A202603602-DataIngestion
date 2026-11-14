@@ -42,10 +42,18 @@
 ## Kết quả
 | Strategy | Split | Hit@1 (n/N) | Evidence Hit@3 (n/N) | Chunk count | Thời gian | Chi phí |
 |---|---|---|---|---|---|---|
+| A | dev  | 13/15 (0.87) | 14/15 (0.93) | 178 | [cần số liệu] | 0 |
+| A | test | 5/5 (1.00)   | 5/5 (1.00)   | 178 | [cần số liệu] | 0 |
+| B | dev  | 14/15 (0.93) | 14/15 (0.93) | 119 | [cần số liệu] | 0 |
+| B | test | 4/5 (0.80)   | 5/5 (1.00)   | 119 | [cần số liệu] | 0 |
+| C | dev  | 14/15 (0.93) | 14/15 (0.93) | 119 | [cần số liệu] | 0 |
+| C | test | 4/5 (0.80)   | 5/5 (1.00)   | 119 | [cần số liệu] | 0 |
 
 | Strategy | Coherence trung bình /2 (n) | Metadata đủ và đúng (n/N) | Filter tuân thủ (n/N hoặc N/A) | Grounding 0/1/2 (số câu) và trung bình /2 |
 |---|---|---|---|---|
-
+| A | 1.10/2 (n=10) | 15/15 | N/A (0 câu filter) | 0/0/5, TB 2.00/2 |
+| B | 1.30/2 (n=10) | 15/15 | N/A (0 câu filter) | 0/0/5, TB 2.00/2 |
+| C | 1.30/2 (n=10) — chung nhãn với B (chung chunk) | 15/15 | dev 3/3, test 1/1 | 0/0/5, TB 2.00/2 |
 Đường dẫn trace, nhãn thủ công và cách chọn mẫu:
 
 ## Phân tích và kết luận
