@@ -1,0 +1,2 @@
+2026-11-13 23:37:26 | sau khi bỏ HNSW, lần nạp 1 | {'A': 178, 'B': 119} | trùng (config, chunk_id): 0
+2026-11-13 23:37:37 | sau khi bỏ HNSW, lần nạp 2 | {'A': 178, 'B': 119} | trùng (config, chunk_id): 0

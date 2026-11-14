@@ -1,0 +1,33 @@
+{
+  "source_id": "sotay-sausanh-2022",
+  "title": "Sổ tay chăm sóc bà mẹ sau đẻ và trẻ sơ sinh",
+  "source_path_or_url": "https://projects.tuni.fi/app/uploads/2023/09/d3fa1053-wp8-postpartum-care-handbook-viet.pdf",
+  "publisher": "Bộ Y tế / Trường ĐH Điều dưỡng Nam Định (Dự án 4 Steps)",
+  "year": 2022,
+  "license_or_permission": "Công khai, tải tự do từ trang dự án y tế (projects.tuni.fi); không có ghi chú giới hạn tái phân phối trên văn bản",
+  "accessed_at": "2026-11-13",
+  "language": "vi",
+  "total_physical_pages": 105,
+  "page_mapping": {
+    "note": "pypdf page index (0-based) -> số trang in",
+    "excluded_front": "index 0-6 (không đánh số: bìa, chủ biên, viết tắt, lời nói đầu, mục lục)",
+    "counted_range_index": "7-102",
+    "counted_range_printed": "1-96",
+    "excluded_back": {
+      "103": "97 - tài liệu tham khảo",
+      "104": "98 - ảnh hội thảo, không có nội dung"
+    }
+  },
+  "counted_page_count": 96,
+  "chapters": [
+    {"chuong": 1, "title": "Những thay đổi của bà mẹ sau sinh", "pages": "1-9"},
+    {"chuong": 2, "title": "Chăm sóc bà mẹ sau sinh", "pages": "10-27"},
+    {"chuong": 3, "title": "Một số dấu hiệu bất thường và cách xử trí", "pages": "28-33"},
+    {"chuong": 4, "title": "Nuôi con bằng sữa mẹ", "pages": "34-52"},
+    {"chuong": 5, "title": "Các biện pháp kế hoạch hoá gia đình", "pages": "53-56"},
+    {"chuong": 6, "title": "Chăm sóc bà mẹ trong một số trường hợp đặc biệt", "pages": "57-67"},
+    {"chuong": 7, "title": "Chăm sóc trẻ sơ sinh", "pages": "68-96"}
+  ],
+  "filter_fields": ["chuong"],
+  "notes": "Chunking B theo heading in hoa (CHƯƠNG n, đề mục con)."
+}

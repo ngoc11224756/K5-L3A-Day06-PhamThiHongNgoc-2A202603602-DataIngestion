@@ -1,0 +1,22 @@
+{
+  "A": {
+    "n_chunks": 178,
+    "total_chars": 70085,
+    "mean_len": 393.7,
+    "median_len": 480.0,
+    "min_len": 57,
+    "max_len": 500,
+    "ingest_seconds": 0.9,
+    "cost_usd": 0
+  },
+  "B": {
+    "n_chunks": 119,
+    "total_chars": 66007,
+    "mean_len": 554.7,
+    "median_len": 642,
+    "min_len": 66,
+    "max_len": 859,
+    "ingest_seconds": 0.6,
+    "cost_usd": 0
+  }
+}
